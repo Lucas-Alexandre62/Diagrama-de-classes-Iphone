@@ -3,7 +3,7 @@ projeto do bootcamp Java Cloud Native
 
 ```mermaid
 classDiagram
-direction TB
+
     class AparelhoTelefonico {
 	    ligar(String numero)
 	    atender()
