@@ -27,8 +27,8 @@ classDiagram
 
 	Iphone
 
-    Iphone <|-- ReprodutorMusical
-    Iphone <|-- AparelhoTelefonico
-    Iphone <|-- NavegadorInternet
+    Iphone --|> ReprodutorMusical
+    Iphone --|> AparelhoTelefonico
+    Iphone --|> NavegadorInternet
 
 ```
